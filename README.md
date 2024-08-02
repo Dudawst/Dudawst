@@ -9,4 +9,4 @@ Meu nome é Maria Eduarda e estou aprendendo a programar.
 00001243336444sp@.al.educacao.sp.br
 
 
-![].(https://tenor.com/kGSVznil9QH.gif)
+![](https://tenor.com/kGSVznil9QH.gif)
